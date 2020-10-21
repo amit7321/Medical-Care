@@ -1,0 +1,31 @@
+body{
+	font-family: helvetica,sans-serif;
+	margin: 0;
+	padding: 0;
+	
+}
+.big-banner{
+	background-image: url('../images/login.jpg');
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+a{
+	color: yellow;
+	font-family: Tahoma,Geneva,sans-serif;
+	margin-left: 30px;
+}
+.congrats{
+	background: rgba(44,62,68,0.7);
+	padding: 50px;
+	height: 300px;
+	margin-left: 180px;
+	margin: 0 auto;
+	margin-top: 50px;
+	width:370px;
+}
+h2{
+	margin-left: 10px;
+	margin-top: 50px;
+}
